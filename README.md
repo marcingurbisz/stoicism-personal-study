@@ -1,24 +1,29 @@
 ```mermaid
 flowchart TD
     VIRTUES[Cardinal Virtues]
-    A@{ shape: comment, label: "external circumstances (wealth, health, reputation) are largely beyond our control and inherently unstable. Basing happiness on these factors makes it fragile and temporary. Character, by contrast, is something we can develop regardless of circumstances." }
-    1@{ shape: brace-r, label: "virtuous character is \"self-sufficient\" for happiness. When you develop wisdom, courage, justice, and moderation, you carry the source of your well-being with you at all times, making you resilient to fortune's changes." }
+    A@{ shape: comment, label: "Stoic philosophy is to heal misconceptions about what truly matters. This healing allows us to stop chasing external goods that don't bring lasting happiness and instead focus on internal growth that cannot be taken away. External circumstances (wealth, health, reputation) are largely beyond our control and inherently unstable. Basing happiness on these factors makes it fragile and temporary." }
+    1@{ shape: brace-r, label: "Character, is something we can develop regardless of circumstances. When you develop wisdom, courage, justice, and moderation, you carry the source of your well-being with you at all times, making you resilient to fortune's changes." }
+
 
     WISDOM[Wisdom
     -
-    practical knowledge of what is good, bad, or neutral]
+    The ability to discern what's truly good and beneficial, neutral, bad.
+    Acting thoughtfully and rationally, making decisions based on reason rather than impulse or emotion.]
     
     COURAGE[Courage
     -
-    endurance and righteous action in the face of adversity]
+    Facing challenges, fears, or discomfort without retreating.
+    Remaining steadfast, especially in difficult situations, and acting according to principles even when it’s hard.]
     
     JUSTICE[Justice
     -
-    Fairness and integrity in relationships]
+    Treating others fairly, kindly, and ethically.
+    Recognizing our interconnectedness and acting responsibly towards others and the broader community.]
     
     TEMPERANCE[Temperance
     -
-    moderation and self-discipline in all aspects of life]
+    Moderation in desires, emotions, and behaviors.
+    Avoiding excess and practicing self-discipline.]
     
     HAPPINESS[Happiness]
 
