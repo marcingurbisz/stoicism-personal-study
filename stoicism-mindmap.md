@@ -3,8 +3,6 @@ flowchart TD
     VIRTUES[Cardinal Virtues]
     A@{ shape: comment, label: "external circumstances (wealth, health, reputation) are largely beyond our control and inherently unstable. Basing happiness on these factors makes it fragile and temporary. Character, by contrast, is something we can develop regardless of circumstances." }
     1@{ shape: brace-r, label: "virtuous character is \"self-sufficient\" for happiness. When you develop wisdom, courage, justice, and moderation, you carry the source of your well-being with you at all times, making you resilient to fortune's changes." }
-As Epictetus suggested, we act as "physicians of the soul," using philosophy to heal our misconceptions about what truly matters. This healing allows us to stop chasing external goods that don't bring lasting happiness and instead focus on internal growth that cannot be taken away.    
-    
 
     WISDOM[Wisdom
     -
@@ -28,8 +26,6 @@ As Epictetus suggested, we act as "physicians of the soul," using philosophy to 
     and ethical behavior#41;, we fulfill our purpose and function well as humans, which brings satisfaction."}
     
     HC2@{ shape: braces, label: "Stoics didn't equate happiness with positive feelings. Their term eudaimonia is better translated as flourishing or well-being - a state of living well."}
-
-    For Stoics, happiness is inseparable from virtue. A truly happy person is one who lives according to virtue, making right choices and fulfilling their roles with excellence.
 
     HAPPINESS --- HC1
     HAPPINESS --- HC2
