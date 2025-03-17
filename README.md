@@ -1,13 +1,13 @@
 ```mermaid
 flowchart TD
     VIRTUES[Cardinal Virtues]
-    A@{ shape: comment, label: "Stoic philosophy is to heal misconceptions about what truly matters. This healing allows us to stop chasing external goods that don't bring lasting happiness and instead focus on internal growth that cannot be taken away. External circumstances (wealth, health, reputation) are largely beyond our control and inherently unstable. Basing happiness on these factors makes it fragile and temporary." }
-    1@{ shape: brace-r, label: "Character, is something we can develop regardless of circumstances. When you develop wisdom, courage, justice, and moderation, you carry the source of your well-being with you at all times, making you resilient to fortune's changes." }
+    1@{ shape: brace-r, label: "Stoic philosophy is to heal misconceptions about what truly matters. This healing allows us to stop chasing external goods that don't bring lasting happiness and instead focus on internal growth that cannot be taken away. External circumstances (wealth, health, reputation) are largely beyond our control and inherently unstable. Basing happiness on these factors makes it fragile and temporary." }
+    A@{ shape: comment, label: "Character, is something we can develop regardless of circumstances. When you develop wisdom, courage, justice, and moderation, you carry the source of your well-being with you at all times, making you resilient to fortune's changes." }
 
 
     WISDOM[Wisdom
     -
-    The ability to discern what's truly good and beneficial, neutral, bad.
+    The ability to discern what's truly good and beneficial and what is neutral or bad.
     Acting thoughtfully and rationally, making decisions based on reason rather than impulse or emotion.]
     
     COURAGE[Courage
@@ -25,15 +25,15 @@ flowchart TD
     Moderation in desires, emotions, and behaviors.
     Avoiding excess and practicing self-discipline.]
     
-    HAPPINESS[Happiness]
+    HAPPINESS[Happiness
+    -
+    State of inner tranquility and fulfillment, achieved by living virtuously and in harmony with nature.
+    Tranquility - having a calm, clear mind, free from negative emotions like anxiety, anger, or envy.]
 
     HC1@{ shape: braces, label: "Stoics saw humans as naturally rational and social beings. By developing our character in accordance with these aspects of our nature #40;through rational thinking 
     and ethical behavior#41;, we fulfill our purpose and function well as humans, which brings satisfaction."}
-    
-    HC2@{ shape: braces, label: "Stoics didn't equate happiness with positive feelings. Their term eudaimonia is better translated as flourishing or well-being - a state of living well."}
 
     HAPPINESS --- HC1
-    HAPPINESS --- HC2
 
     
     %% Virtues breakdown
